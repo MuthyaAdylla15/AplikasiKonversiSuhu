@@ -46,7 +46,7 @@ public class KonversiSuhu extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel1.setBackground(new java.awt.Color(153, 255, 255));
         jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Tugas 2", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Arial Black", 1, 24))); // NOI18N
 
         jLabel1.setFont(new java.awt.Font("Arial Black", 1, 18)); // NOI18N
@@ -83,6 +83,7 @@ public class KonversiSuhu extends javax.swing.JFrame {
         radioGroup.add(jRadioButton2);
         jRadioButton2.setText("Kiri Ke Kanan");
 
+        btbKonversi.setBackground(new java.awt.Color(204, 204, 204));
         btbKonversi.setText("Konversi");
         btbKonversi.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -90,6 +91,7 @@ public class KonversiSuhu extends javax.swing.JFrame {
             }
         });
 
+        btbHapus.setBackground(new java.awt.Color(255, 153, 153));
         btbHapus.setText("Hapus");
         btbHapus.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -97,6 +99,7 @@ public class KonversiSuhu extends javax.swing.JFrame {
             }
         });
 
+        btbKeluar.setBackground(new java.awt.Color(153, 255, 153));
         btbKeluar.setText("Keluar");
         btbKeluar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -104,7 +107,7 @@ public class KonversiSuhu extends javax.swing.JFrame {
             }
         });
 
-        jPanel2.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel2.setBackground(new java.awt.Color(204, 204, 255));
         jPanel2.addAncestorListener(new javax.swing.event.AncestorListener() {
             public void ancestorAdded(javax.swing.event.AncestorEvent evt) {
                 jPanel2AncestorAdded(evt);
