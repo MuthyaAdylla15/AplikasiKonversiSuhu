@@ -1,4 +1,5 @@
 # AplikasiPenghitungUmur
+<<<<<<< HEAD
  
 Aplikasi Penghitung Umur adalah sebuah aplikasi berbasis Java yang membantu pengguna menghitung usia mereka dalam format yang rinci, menampilkan tanggal ulang tahun berikutnya, serta memberikan informasi peristiwa penting yang terjadi pada tanggal tersebut dalam sejarah.
 
@@ -43,3 +44,6 @@ Aplikasi ini menawarkan beberapa fitur utama:
 # Demo
 
 ![Demo Aplikasi](img/demo.gif)
+=======
+ Tugas 2 - Muthya Adylla 2210010476
+>>>>>>> 90ba4c06caebbbd3486b4012229b063b0834624d
