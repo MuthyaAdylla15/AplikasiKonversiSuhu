@@ -1,11 +1,12 @@
 # AplikasiPenghitungUmur
  
 Aplikasi Konversi Suhu adalah sebuah aplikasi berbasis Java yang membantu pengguna untuk melakukan konversi suhu dari satu skala ke skala lainnya, seperti Celsius, Fahrenheit, Kelvin, dan Reamur.
+
 # Keunggulan Aplikasi
 
-- *Menghitung Umur*: Aplikasi ini menghitung umur pengguna dari tanggal lahir yang diinput.
-- *Tanggal Ulang Tahun Berikutnya*: Menampilkan tanggal ulang tahun berikutnya beserta hari dalam Bahasa Indonesia.
-- *Peristiwa Penting*: Menampilkan peristiwa penting yang terjadi pada tanggal ulang tahun berikutnya berdasarkan data yang diambil secara daring.
+- *Mudah dan Cepat*: Aplikasi ini memungkinkan pengguna untuk mengonversi suhu dengan cepat hanya dengan beberapa klik.
+- *Antarmuka Sederhana*: Didesain menggunakan Java , aplikasi ini menawarkan antarmuka yang intuitif.
+- *Konversi Akurat*: Menggunakan rumus konversi yang tepat untuk memastikan hasil akurat.
 
 # Pembuat Aplikasi
  Muthya Adylla - 2210010476 - Latihan 2
