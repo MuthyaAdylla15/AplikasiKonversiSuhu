@@ -42,4 +42,4 @@ Aplikasi ini menawarkan beberapa fitur utama:
 
 # Demo
 
-![App Screenshot](img/Suhu.mp4)
+![Demo Aplikasi](img/demo.gif)
