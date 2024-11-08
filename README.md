@@ -23,7 +23,6 @@ Pengguna dapat memasukkan nilai suhu pada kolom input, kemudian memilih skala as
 Antarmuka dibangun menggunakan Java Swing, dengan input sederhana untuk memasukkan nilai suhu dan pilihan skala. Hasil konversi ditampilkan dengan jelas di layar.
 
 ## Cara Menjalankan
-![App Screenshot](img/Suhu.png)
 
 1. Clone repositori ini ke dalam komputer Anda atau unduh sebagai ZIP.
 2. Buka proyek di IDE pilihan Anda.
@@ -31,3 +30,4 @@ Antarmuka dibangun menggunakan Java Swing, dengan input sederhana untuk memasukk
 4. Jalankan PenghitungUmurFrame untuk memulai aplikasi.
 
 # Demo
+![App Screenshot](img/Suhu.png)
