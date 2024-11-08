@@ -1,6 +1,6 @@
 # AplikasiPenghitungUmur
  
-Aplikasi Konversi Suhu adalah sebuah aplikasi berbasis Java yang membantu pengguna untuk melakukan konversi suhu dari satu skala ke skala lainnya, seperti Celsius, Fahrenheit, Kelvin, dan Reamur
+Aplikasi Konversi Suhu adalah sebuah aplikasi berbasis Java yang membantu pengguna untuk melakukan konversi suhu dari satu skala ke skala lainnya, seperti Celsius, Fahrenheit, Kelvin, dan Reamur.
 # Keunggulan Aplikasi
 
 - *Menghitung Umur*: Aplikasi ini menghitung umur pengguna dari tanggal lahir yang diinput.
@@ -23,6 +23,7 @@ Pengguna dapat memasukkan nilai suhu pada kolom input, kemudian memilih skala as
 Antarmuka dibangun menggunakan Java Swing, dengan input sederhana untuk memasukkan nilai suhu dan pilihan skala. Hasil konversi ditampilkan dengan jelas di layar.
 
 ## Cara Menjalankan
+![App Screenshot](img/Suhu.png)
 
 1. Clone repositori ini ke dalam komputer Anda atau unduh sebagai ZIP.
 2. Buka proyek di IDE pilihan Anda.
